@@ -3,6 +3,23 @@
 - Curso by Codar.me
 - Foco: Desenvolvendo software para a produção, resolver a dor do cliente, criar hipóteses para resolver um problema, implementar as hipóteses e evoluir o projeto com o tempo
 
+## Sumário
+
+- Customer Development
+  - Ferramenta
+- Levantamento de Requisitos
+  - Funcionalidades do app de Planejamento Financeiro
+  - Features
+- Definindo o MVP
+- Configurando o ambiente
+  - VS Code Extensions
+  - Other extensions
+  - Monoespaced Font
+  - Zsh, Oh my Zsh, and Spaceship
+    - Zinit
+  - VS Code Setting in setting.json
+  - VS Code Keyboard Shortcuts
+
 ## Customer Development
 
 - Objetivo
@@ -33,7 +50,7 @@ Despesas:
 - Despesas Programadas: Netflix, Spotify, Gympass, lazer
 - Gastos do Casal: Aluguel, condomínio, mercado, gasolina
 
-### Funcionalidades dp app de Planejamento Financeiro
+### Funcionalidades do app de Planejamento Financeiro
 
 Despesa / Receitas
 
@@ -95,7 +112,7 @@ Cadastro de usuário
 
 ## Configurando o ambiente
 
-### Vs Code Extensions
+### VS Code Extensions
 
 - lucy (theme)
 - eslint
